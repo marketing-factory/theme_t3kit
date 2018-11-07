@@ -38,7 +38,7 @@ $EM_CONF[$_EXTKEY] = array(
             'realurl' => '2.3.2-2.3.99',
             'themes' => '8.7.0-8.7.99',
             'gridelements' => '8.2.0-8.2.99',
-            'dyncss_less' => '0.7.9-0.7.99
+            'dyncss_less' => '0.7.9-0.7.99'
         ),
         'conflicts' => array(
         ),
